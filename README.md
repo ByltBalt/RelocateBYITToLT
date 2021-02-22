@@ -1,1 +1,1 @@
-# RelocateBYITToLT
+See Wiki.
